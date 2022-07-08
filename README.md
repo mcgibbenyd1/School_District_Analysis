@@ -38,9 +38,22 @@ This is the New Revised School Summary accomodating only to Thomas High School 1
 <img src="https://github.com/mcgibbenyd1/   width="450" height="500" />
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+Relative to the other schools Thomas was in second top school based on the overall Passing % prior to the replacement of the scores and was not a drastic enough of a change to alter the rank of the school after the change. After the change Thomas High School remained in second place with a reduction in overall passing % of 0.31% that was not enough to drop below the ranking of the next school.
+
+
 - How does replacing the ninth-grade scores affect the following:
   - Math and reading scores by grade
+  <img src="https://github.com/mcgibbenyd1/   width="450" height="500" />
   - Scores by school spending
+  <img src="https://github.com/mcgibbenyd1/   width="450" height="500" />
   - Scores by school size
-  - Scores by school type 
-   
+  <img src="https://github.com/mcgibbenyd1/   width="450" height="500" />
+  - Scores by school type
+  <img src="https://github.com/mcgibbenyd1/   width="450" height="500" />
+  
+ All five summaries shown were unaffected by the removal of the suspect test scores from Thomas High school 9th grade.
+ 
+## Overall Summary
+Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+  
+  
